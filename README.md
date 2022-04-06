@@ -1,2 +1,4 @@
 # BimaPos
+
+Onprogress 70%
  
