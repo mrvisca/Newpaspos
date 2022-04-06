@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.209",
+        "phpoffice/phpspreadsheet": "^1.21"
+    }
+}
